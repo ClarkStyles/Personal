@@ -35,8 +35,7 @@ try:
         f = f"{vector_cross_product[0]}i+{vector_cross_product[1]}j+{vector_cross_product[2]}k"
         return f
     
-    
-        
+     
     operation = input(" Enter what you wonna do: sum, sub, dot product, cross product: ")
 
     match operation:
